@@ -11,12 +11,12 @@ This application is designed to be run on windows with python 3.x installed.
 
 Im music, the number and length of each beat is given by a time signature (3/4, 4/4, 3/8, 9/8 etc.). The top number in the time signature is the only number we are concerned with as it tells us how many beats there are in a bar.
 
-Given we ignore the other number. From this point on, all that we need to know is the beats per minute value from the user and we have a simple metronome.
+Given that we are ignoring the other number in the time signature, all that we need to know is the beats per minute value from the user and we have a simple metronome.
 
 
 ## Getting More Advanced
 
-IN many situations we need to be able to group the number of beats in a bar into smaller sub-groups. This application automatically generates all possible groupings using sub-group lengths of 2, 3, and 4 and allows the user to choose from any of these.
+In many situations we need to be able to group the number of beats in a bar into smaller sub-groups. This application automatically generates all possible groupings using sub-group lengths of 2, 3, and 4 and allows the user to choose from any of these.
 
 
 ## Usage
